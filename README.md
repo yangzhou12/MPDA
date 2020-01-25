@@ -8,8 +8,8 @@ Demo_MPDA.m
 ```
 
 ## Descriptions of the files in this repository  
- - Demo_MPDA.m provides example usage of MPDA for subspace learning and classification on 2D facial images.
- - MPDA.m implements the MPDA algorithm.
+ - *Demo_MPDA.m* provides example usage of MPDA for subspace learning and classification on 2D facial images.
+ - *MPDA.m* implements the MPDA algorithm.
 
 ## Citation
 If you find our codes helpful, please consider cite the following [paper](https://ieeexplore.ieee.org/document/7434038):
