@@ -8,13 +8,8 @@ Demo_MPDA.m
 ```
 
 ## Descriptions of the files in this repository  
- - DBpart.mat stores the indices for training (2 samples per class) /test data partition.
- - FERETC80A45.mat stores 320 faces (32x32) of 80 subjects (4 samples per class) from the FERET dataset.
  - Demo_MPDA.m provides example usage of MPDA for subspace learning and classification on 2D facial images.
  - MPDA.m implements the MPDA algorithm.
- - projPRODA.m projects 2D data into the subspace learned by PRODA.
- - sortProj.m sorts features by their Fisher scores in descending order.
- - logdet.m computes the logarithm of determinant of a matrix.
 
 ## Citation
 If you find our codes helpful, please consider cite the following [paper](https://ieeexplore.ieee.org/document/7434038):
