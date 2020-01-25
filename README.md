@@ -2,7 +2,7 @@
 Matlab source codes of the Manifold Partition Discriminant Analysis (MPDA) algorithm presented in the paper [Manifold Partition Discriminant Analysis](https://ieeexplore.ieee.org/document/7434038).
 
 ## Usage
-Classification with PRODA on the two moon synthetic dataset:
+Classification with MPDA on the two moon synthetic dataset:
 ```
 Demo_MPDA.m
 ```
